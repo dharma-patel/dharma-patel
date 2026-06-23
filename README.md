@@ -13,7 +13,7 @@
   </a>
 
   <a href="#">
-    <img src="https://images.credly.com/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png"
+    <img src="https://images.credly.com/size/220x220/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png"
          alt="IBM Data Science Professional Certificate"
          width="120"/>
   </a>
