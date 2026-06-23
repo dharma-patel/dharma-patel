@@ -197,6 +197,11 @@ Production-ready AI assistant with modern architecture.
 </a>
 <img src="https://images.credly.com/size/220x220/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png"width="120"/>
 <img src="https://images.credly.com/images/1437467a-176c-44ab-98c3-f7d446317ed7/Adv_Data_Science_Specialization.png" width="120"/>
+<img src="https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png"width="120"/>
+<img src="https://images.credly.com/size/220x220/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png"width="120"/>
+<img src="https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png"width="120"/>
+<img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"width="120"/>
+<img src="https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png"width="120"/>
 </p>
 
 ### AWS
