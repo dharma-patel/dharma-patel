@@ -1,378 +1,316 @@
-<div align="center">
+# README.md
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&textDharma Patel&fontSize=70&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=YOUR%20NAME&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Scientist&descAlignY=60"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Final+Year+Student;Building+Scalable+Full+Stack+Systems;Exploring+AI+%2F+ML+%2F+LLMs;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/IIT_Madras-BS_Data_Science-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Science-Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-India-A855F7?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graduating-2026-7B2FF7?style=flat-square&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-City%2C%20Country-4B0082?style=flat-square&logo=googlemaps&logoColor=white"/>
+<p align="center">
+  <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/username">
+    <img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-5E35B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-4527A0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=8a2be2&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=8a2be2&label=Followers&logo=github"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=8a2be2&label=Stars&logo=github"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=7C3AED"/>
+  <img src="https://img.shields.io/github/followers/username?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/username?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 About Me
+# About
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B388FF&icon_color=8A2BE2&text_color=C9C9C9"/>
+Software Engineer focused on building scalable systems, AI-powered applications, data-driven products, and modern cloud-native solutions.
 
-```yaml
-name: "YOUR_NAME"
-role: "Computer Science Student / Software Engineer"
-focus:
-  - Software Engineering & System Design
-  - Artificial Intelligence & Machine Learning
-  - Full Stack Product Engineering
-philosophy: "Build things that scale, ship things that matter."
-```
+My interests span:
 
-I'm **YOUR_NAME**, a Computer Science student and software engineer who enjoys turning ambiguous problems into clean, scalable systems. My work spans **backend architecture**, **full stack product development**, and **applied AI/ML**, with a strong emphasis on writing production-grade, maintainable code rather than just "getting it to work."
+- Artificial Intelligence & Machine Learning
+- Generative AI & LLM Applications
+- Full Stack Engineering
+- Data Science & Analytics
+- Cloud Infrastructure
+- Open Source Development
+- Product Engineering
 
-I care about engineering fundamentals — system design, clean architecture, and performance — as much as I care about shipping features users actually want. I approach projects with a **product engineering mindset**: understanding the *why* before the *how*.
+### Open To
 
-**🟣 Open To:**
-
-- 💼 SDE / Full Stack Engineer roles
-- 🤖 AI / ML Engineer opportunities
-- 🚀 Internships & freelance collaborations
-- 🌐 Open source contributions
-
-<br clear="right"/>
+- Software Engineering Roles
+- AI/ML Engineering Roles
+- Data Science Opportunities
+- Research Collaborations
+- Open Source Contributions
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go&theme=dark"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,r"/>
 </p>
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vuejs&theme=dark"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs"/>
 </p>
 
 ### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,postgres,mysql,redis,graphql&theme=dark"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase"/>
 </p>
 
 ### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,github,linux,nginx,postman&theme=dark"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode"/>
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
-
-<div align="center">
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/unsupervised learning, scikit-learn, model evaluation & tuning |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, RNNs/LSTMs, PyTorch & TensorFlow, transfer learning |
-| **NLP / LLMs** | ⭐⭐⭐ | Transformers, embeddings, RAG pipelines, prompt engineering |
-| **Computer Vision** | ⭐⭐⭐ | Image classification, object detection, OpenCV |
-| **MLOps** | ⭐⭐⭐ | Model deployment, experiment tracking, basic CI/CD for ML |
-| **Data Engineering** | ⭐⭐⭐ | Pandas/NumPy pipelines, data cleaning, SQL-based ETL |
-
-</div>
+|----------|----------|----------|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning |
+| Deep Learning | Advanced | CNNs, RNNs, Transformers |
+| Generative AI | Advanced | LLM Applications & Prompt Engineering |
+| NLP | Advanced | Text Analytics & Language Models |
+| Data Science | Advanced | Analytics, Visualization, Statistical Modeling |
+| MLOps | Intermediate | Deployment & Monitoring |
+| Computer Vision | Intermediate | Classification & Detection |
+| Research | Advanced | Literature Reviews & Scientific Writing |
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>🔹 Project Name 1 — One-line tagline describing the project</b></summary>
-<br/>
+<summary><b>AI Research Assistant</b></summary>
 
-A short professional description of what this project does, the problem it solves, and who it's for. Keep it outcome-focused — what does the system actually achieve for the end user.
+### Description
 
-| Aspect | Details |
-|:--|:--|
-| **Stack** | React, Node.js, MongoDB, AWS |
-| **Scale** | Handles X requests/day, Y active users |
-| **Performance** | Sub-Xms response time, optimized queries |
-| **Security** | JWT auth, input sanitization, rate limiting |
-| **Impact** | Describe measurable outcome (e.g., reduced manual effort by X%) |
-| **Repository** | [github.com/yourusername/project-1](https://github.com/yourusername/project-1) |
+Research workflow automation platform using LLMs and retrieval systems.
 
-This project involved designing a [type of architecture] to solve [specific problem]. Key engineering decisions included [decision 1] and [decision 2], which improved [metric] significantly. Built with maintainability in mind, the codebase follows [pattern/practice].
+| Metric | Details |
+|----------|----------|
+| Stack | Python, LangChain, Vector DB |
+| Scale | Multi-document Processing |
+| Performance | Optimized Retrieval |
+| Security | Secure API Integration |
+| Impact | Faster Research Workflows |
+| Repository | [View Repository](#) |
 
 </details>
 
 <details>
-<summary><b>🔹 Project Name 2 — One-line tagline describing the project</b></summary>
-<br/>
+<summary><b>Full Stack Analytics Platform</b></summary>
 
-A short professional description of what this project does, the problem it solves, and who it's for.
+### Description
 
-| Aspect | Details |
-|:--|:--|
-| **Stack** | Python, FastAPI, PostgreSQL, Docker |
-| **Scale** | Describe dataset size / concurrent users |
-| **Performance** | Describe latency/throughput improvements |
-| **Security** | OAuth2, encrypted data at rest |
-| **Impact** | Describe measurable outcome |
-| **Repository** | [github.com/yourusername/project-2](https://github.com/yourusername/project-2) |
+Enterprise analytics dashboard with real-time insights.
 
-Describe the core technical challenge and how you solved it. Mention any algorithms, design patterns, or trade-offs that made this project engineering-worthy rather than a simple CRUD app.
+| Metric | Details |
+|----------|----------|
+| Stack | React, Node.js, PostgreSQL |
+| Scale | Multi-user |
+| Performance | Real-time Data |
+| Security | JWT Authentication |
+| Impact | Business Intelligence |
+| Repository | [View Repository](#) |
 
 </details>
 
 <details>
-<summary><b>🔹 Project Name 3 — One-line tagline describing the project</b></summary>
-<br/>
+<summary><b>Generative AI Application</b></summary>
 
-A short professional description of what this project does, the problem it solves, and who it's for.
+### Description
 
-| Aspect | Details |
-|:--|:--|
-| **Stack** | PyTorch, Flask, scikit-learn, Streamlit |
-| **Scale** | Describe model size / dataset volume |
-| **Performance** | Describe accuracy / F1 / inference time |
-| **Security** | Data validation, sandboxed inference |
-| **Impact** | Describe measurable outcome |
-| **Repository** | [github.com/yourusername/project-3](https://github.com/yourusername/project-3) |
+Production-ready AI assistant with modern architecture.
 
-Describe the modeling approach, feature engineering choices, and how the project ties to a real-world use case.
+| Metric | Details |
+|----------|----------|
+| Stack | Python, FastAPI, OpenAI |
+| Scale | Cloud Ready |
+| Performance | Low Latency |
+| Security | Secure APIs |
+| Impact | AI Productivity |
+| Repository | [View Repository](#) |
 
 </details>
 
 ---
 
-## 💼 Experience
+# Experience
 
-### Software Engineering Intern — Company Name
-**Month Year – Month Year**
+### Software Engineering Intern
+**Company Name**
 
-Worked on [team/product area], contributing to [brief context of what the team builds].
+*May 2025 – Aug 2025*
 
-- Designed and implemented [feature/module], improving [metric] by X%
-- Collaborated with a team of N engineers using Agile/Scrum workflows
-- Wrote unit/integration tests, increasing coverage from X% to Y%
-- Participated in code reviews and contributed to internal documentation
+- Developed scalable web applications
+- Improved performance and reliability
+- Collaborated with cross-functional teams
+- Contributed to production deployments
 
-`React` `Node.js` `PostgreSQL` `AWS` `Git`
-
-<br/>
-
-### Research / Teaching Assistant — University Name
-**Month Year – Month Year**
-
-Assisted in [course/research project], focusing on [topic].
-
-- Built [tool/pipeline] used by N students/researchers
-- Mentored junior students on [topic/skill]
-- Co-authored/contributed to [paper/report] (if applicable)
-
-`Python` `Machine Learning` `Data Analysis`
+**Skills:** Python • React • AWS • SQL
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
+# Achievements
 
 | Recognition | Details |
-|:--|:--|
-| 🥇 Hackathon Winner | Won 1st place at [Hackathon Name] among N+ teams |
-| 🎓 Academic Excellence | [Scholarship/Dean's List/Top X% of cohort] |
-| 📝 Publication | Co-authored paper on [topic] at [conference/journal] |
-| ⭐ Open Source | Merged N+ PRs / maintained a project with X+ stars |
-| 🏅 Competitive Programming | [Rating/Rank] on [Platform] |
-
-</div>
+|------------|------------|
+| Research Publications | Published research in AI and LLMs |
+| Academic Excellence | Strong performance in Data Science |
+| Open Source | Active contributor |
+| Certifications | Multiple industry certifications |
 
 ---
 
-## 📜 Certifications
+# Certifications
 
-**AWS**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-7B2FF7?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-7B2FF7?style=flat-square&logo=amazonaws&logoColor=white"/>
+### Google Cloud
+
+<p>
+<a href="https://www.credly.com/badges/7d1a5328-5246-47e9-9ecb-515305a2ca79/public_url">
+<img src="https://images.credly.com/size/220x220/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="120"/>
+</a>
 </p>
 
-**Oracle**
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-6A0DAD?style=flat-square&logo=oracle&logoColor=white"/>
+### Coursera
+
+<p>
+<img src="https://images.credly.com/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="120"/>
+<img src="https://images.credly.com/images/1437467a-176c-44ab-98c3-f7d446317ed7/Adv_Data_Science_Specialization.png" width="120"/>
 </p>
 
-**NPTEL**
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL%20-%20Data%20Structures%20%26%20Algorithms-4B0082?style=flat-square&logo=googlescholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPTEL%20-%20Machine%20Learning-4B0082?style=flat-square&logo=googlescholar&logoColor=white"/>
-</p>
+### AWS
 
-**Cisco**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco%20-%20Introduction%20to%20Cybersecurity-8A2BE2?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge)
 
-**Verified Badges (Credly)**
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Elite-7C3AED?style=for-the-badge)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
 <p align="center">
-  <a href="https://www.credly.com/badges/7d1a5328-5246-47e9-9ecb-515305a2ca79/public_url">
-    <img src="https://images.credly.com/size/220x220/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png"
-         alt="Google Cloud Career Launchpad - Data Analytics"
-         width="120"/>
-  </a>
-  <a href="#">
-    <img src="https://images.credly.com/size/220x220/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png"
-         alt="IBM Data Science Professional Certificate"
-         width="120"/>
-  </a>
-  <a href="#">
-    <img src="https://images.credly.com/images/1437467a-176c-44ab-98c3-f7d446317ed7/Adv_Data_Science_Specialization.png"
-         alt="Advanced Data Science Specialization"
-         width="120"/>
-  </a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## 💻 Coding Profiles
+# GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight"/>
+</p>
 
-<a href="https://leetcode.com/yourusername">
-  <img src="https://img.shields.io/badge/LeetCode-5E35B1?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/yourusername">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-4527A0?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/yourusername">
-  <img src="https://img.shields.io/badge/HackerRank-7B2FF7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/yourusername">
-  <img src="https://img.shields.io/badge/CodeChef-6A0DAD?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B388FF&icon_color=8A2BE2&text_color=C9C9C9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B388FF&text_color=C9C9C9" width="49%"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# Contribution Activity
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+# Contribution Snake
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=8A2BE2&point=C9A9FF"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+# Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced System Design & Distributed Systems
-    - Large Language Models & RAG architectures
-    - Cloud-native deployment patterns (Kubernetes, Terraform)
-  building:
-    - A production-grade full stack SaaS side project
-    - Personal AI agent / automation tooling
-  exploring:
-    - Generative AI applications in real-world products
-    - Open source contributions to dev tooling projects
-  open_to:
-    - Software Engineer / AI Engineer roles
-    - Internships and collaborative open source work
-    - Tech talks, mentorship, and community building
+Learning:
+  - Advanced AI Engineering
+  - Distributed Systems
+  - MLOps
+
+Building:
+  - AI Applications
+  - Full Stack Products
+  - Open Source Projects
+
+Exploring:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Cloud Native Architecture
+
+Open_To:
+  - Software Engineering Roles
+  - AI/ML Engineering Roles
+  - Research Collaborations
 ```
 
----
+# Connect
 
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Gmail-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-5E35B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-4527A0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<a href="mailto:youremail@example.com">Email</a> •
+<a href="https://linkedin.com/in/username">LinkedIn</a> •
+<a href="https://github.com/username">GitHub</a> •
+<a href="https://portfolio-link.com">Portfolio</a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+<i>"Engineering intelligent systems that create measurable impact."</i>
+</p>
 
-*"Code is the closest thing we have to magic — write it with intent."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
-
-</div>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+</p>
