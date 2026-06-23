@@ -4,6 +4,7 @@
 **dharma-patel/dharma-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Certifications:
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d1a5328-5246-47e9-9ecb-515305a2ca79" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Educate Introduction to Generative AI](https://images.credly.com/size/220x220/images/7d1a5328-5246-47e9-9ecb-515305a2ca79/image.png)](https://www.credly.com/badges/7d1a5328-5246-47e9-9ecb-515305a2ca79/public_url)
 
 Here are some ideas to get you started:
 
