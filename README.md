@@ -1,5 +1,3 @@
-# README.md
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Dharma%20Patel&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Scientist&descAlignY=60"/>
 </p>
@@ -199,7 +197,9 @@ Production-ready AI assistant with modern architecture.
 </a>
 </p>
 <p>
-<img src="https://images.credly.com/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="120"/>
+<img src="https://images.credly.com/size/220x220/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png"/>
+</p>
+<p>
 <img src="https://images.credly.com/images/1437467a-176c-44ab-98c3-f7d446317ed7/Adv_Data_Science_Specialization.png" width="120"/>
 </p>
 
