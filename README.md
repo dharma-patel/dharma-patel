@@ -201,7 +201,21 @@ Production-ready AI assistant with modern architecture.
 <img src="https://images.credly.com/size/220x220/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png"width="120"/>
 <img src="https://images.credly.com/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob"width="120"/>
 <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"width="120"/>
-<img src="https://images.credly.com/size/220x220/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png"width="120"/>
+<img src="https://images.credly.com/images/e9ca1fe8-5c26-445f-8994-1bb52578a27f/blob"width="120"/>
+<img src="https://images.credly.com/images/1f0c674c-0392-4220-96eb-ae19a08528d3/blob"width="120"/>
+<img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob"width="120"/>
+<img src="https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png"width="120"/>
+<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"width="120"/>
+<img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"width="120"/>
+<img src="https://images.credly.com/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png"width="120"/>
+<img src="https://images.credly.com/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob"width="120"/>
+<img src=""width="120"/>
+<img src="https://images.credly.com/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png"width="120"/>
+<img src="https://images.credly.com/images/5fe51375-a8b4-4f7e-91e3-f80452a1383d/blob"width="120"/>
+<img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob"width="120"/>
+<img src="https://images.credly.com/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob"width="120"/>
+<img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png"width="120"/>
+<img src=""width="120"/>
 </p>
 
 ### AWS
